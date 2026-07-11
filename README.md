@@ -1,7 +1,7 @@
-# Hi there, I'm Nikhil Karkera 👋
+Hi there, I'm Nikhil Karkera 👋
 
-# Operations Automation | Python Developer | Project Manager
-**Bridging Business Operations & Technology through AI, Automations & Data**
+Operations Automation | Python Developer | Project Manager
+*Bridging Business Operations & Technology through AI, Automations & Data**
 
 ---
 
