@@ -1,11 +1,11 @@
-Hi there, I'm Nikhil Karkera 👋
+#Hi there, I'm Nikhil Karkera 👋
 
-Operations Automation | Python Developer | Project Manager
+#Operations Automation | Python Developer | Project Manager
 *Bridging Business Operations & Technology through AI, Automations & Data**
 
 ---
 
-## Tech Stack & Skills
+# Tech Stack & Skills
 *Python
 *UIPATH Agenti Ai
 *Alteryx, Tableau
@@ -15,7 +15,7 @@ Operations Automation | Python Developer | Project Manager
 
 ---
 
-## Certifications & Credentials
+# Certifications & Credentials
 *UiPath - Agentic AI Automation
 *CFA Institute - Investment Foundations
 *Google - Poject Management & Data Analysis
@@ -23,12 +23,12 @@ Operations Automation | Python Developer | Project Manager
 
 ---
 
-## Connect with me
+# Connect with me
 Email: [nikhil.karkera@yahoo.co.in](mailto:nikhil.karkera@yahoo.co.in)
 
 ---
 
-## Talk to me about-
+# Talk to me about-
 Anything you like
 
 ----
