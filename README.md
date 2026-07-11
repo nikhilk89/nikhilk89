@@ -6,7 +6,7 @@ Bridging Business Operations & Technology through AI, Automations & Data
 ---
 
 #### Tech Stack & Skills
-* Python
+* Python, AI Integration
 * UIPATH Agentic AI
 * Alteryx, Tableau
 * Project Management & Business Analysis
