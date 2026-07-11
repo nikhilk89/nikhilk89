@@ -7,7 +7,7 @@ Bridging Business Operations & Technology through AI, Automations & Data
 
 #### Tech Stack & Skills
 * Python
-* UIPATH Agenti Ai
+* UIPATH Agentic AI
 * Alteryx, Tableau
 * Project Management & Business Analysis
 * Unity, AR-VR Emerging Technology
