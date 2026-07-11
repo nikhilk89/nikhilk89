@@ -23,6 +23,12 @@ Bridging Business Operations & Technology through AI, Automations & Data
 
 ---
 
+#### Projects 
+* python-fundamentals-and-utility-tools
+
+
+---
+
 #### Connect with me
 Email: [nikhil.karkera@yahoo.co.in](mailto:nikhil.karkera@yahoo.co.in)
 
