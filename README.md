@@ -16,10 +16,10 @@ Bridging Business Operations & Technology through AI, Automations & Data
 ---
 
 #### Certifications & Credentials
-*UiPath - Agentic AI Automation
-*CFA Institute - Investment Foundations
-*Google - Poject Management & Data Analysis
-*Mumbai University - Bachelor Of  Commerce - Banking and Insurance
+* UiPath - Agentic AI Automation
+* CFA Institute - Investment Foundations
+* Google - Poject Management & Data Analysis
+* Mumbai University - Bachelor Of  Commerce - Banking and Insurance
 
 ---
 
