@@ -1,4 +1,4 @@
-### Hi there, I'm Nikhil Karkera 👋
+### I'm Nikhil Karkera 👋
 
 ### Operations Automation | Python Developer | Project Manager | Operations SME
 Bridging Business Operations & Technology through AI, Automations & Data
