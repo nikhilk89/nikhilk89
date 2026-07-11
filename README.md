@@ -19,6 +19,7 @@ Bridging Business Operations & Technology through AI, Automations & Data
 * UiPath - Agentic AI Automation
 * CFA Institute - Investment Foundations
 * Google - Poject Management & Data Analysis
+* FX School - Foundations & Specialisation in CG Asset Development 
 * Mumbai University - Bachelor Of  Commerce - Banking and Insurance
 
 ---
